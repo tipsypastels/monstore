@@ -1,0 +1,31 @@
+{
+  "spriteCollections": {
+    "gen1": {
+      "name": "Gen 1",
+      "dirs": {
+        "front": "gen1",
+        "back": "gen1-back",
+        "frontShiny": null,
+        "backShiny": null,
+      }
+    },
+    "yellow": { "aliasOf": "gen1" },
+    "red-blue": {
+      "name": "Gen 1 (Red & Blue)",
+      "dirs": {
+        "front": "gen1rb",
+        "back": "gen1-back",
+        "frontShiny": null,
+        "backShiny": null,
+      },
+    },
+    "red-green": {
+      "name": "Gen 1 (Red & Green)",
+      "dirs": {
+        "front": "gen1rg",
+        "back": "gen1-back",
+        "front": ""
+      }
+    }
+  }
+}
